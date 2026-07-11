@@ -1,0 +1,12 @@
+Product: Bikes
+Revenue: 1200
+Country: Ethiopia
+Product: Accessories
+Revenue: 450
+Country: Canada
+Product: Clothing
+Revenue: 300
+Country: Ethiopia
+Product: Bikes
+Revenue: 1500
+Country: Canada
